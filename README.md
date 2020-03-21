@@ -9,9 +9,7 @@ Avaliar uma variável específica do ambiente luminoso sob a copa de quatro esp�
 
 HIPÓTESE
 
-O ambiente luminoso no sub-bosque abaixo das copas será diferente entre as espécies analisadas.
-           
-O sub-bosque abaixo da copa de Inga edulis e Piptadenia gonoacantha apresentará maiores valores de FSD, e o IAF dessas espécies será menor. Isso porque ambas são espécies caducifólias. A área abaixo da copa de Guarea guidonia e Nectandra membranacea apresentará menores valores de FSD. Essas espécies apresentarão maiores valores de IAF. Isso por ambas serem espécies perenifólias.
+O ambiente luminoso no sub-bosque abaixo das copas será diferente entre as espécies analisadas.O sub-bosque abaixo da copa de Inga edulis e Piptadenia gonoacantha apresentará maiores valores de FSD, e o IAF dessas espécies será menor. Isso porque ambas são espécies caducifólias. A área abaixo da copa de Guarea guidonia e Nectandra membranacea apresentará menores valores de FSD. Essas espécies apresentarão maiores valores de IAF. Isso por ambas serem espécies perenifólias.
 
 RESULTADOS ESPERADOS
 
